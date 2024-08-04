@@ -1,6 +1,3 @@
-import Replicate from "replicate";
-
-
 import { getImagesService } from '../services/img.service.js';
 
 export const getImages = async (req, res) => {
